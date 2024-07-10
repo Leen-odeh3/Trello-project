@@ -1,4 +1,6 @@
 # Cypress to Trello Integration
+<img src="https://github.com/Leen-odeh3/Trello-project/assets/123558998/456efec3-b698-402f-8704-ea08f3afdeb1" width="550" height="200"/>
+
 ## Overview
 This project demonstrates the integration between Cypress and Trello to automate board, list, and card management tasks.
 
