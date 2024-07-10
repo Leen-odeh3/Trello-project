@@ -1,4 +1,6 @@
 Feature: create new board
+
+
     Scenario: Validate that the user can create a new board
         Given The user login to trello website
         When Clicks on create button in navbar

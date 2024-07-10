@@ -1,5 +1,5 @@
 {
-  "name": "trello-automation-testing",
+  "name": "trello-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,13 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^13.13.0",
-    "cypress-cucumber-preprocessor": "^4.3.1",
-    "save-dev": "^0.0.1-security"
+  "devDependencies": {
+    "cypress": "^13.7.1",
+    "cypress-cucumber-preprocessor": "^4.3.1"
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true,
-    "step_definitions": "cypress/e2e"
+    "step_definitions": "cypress/e2e/"
   }
 }
